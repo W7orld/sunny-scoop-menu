@@ -1,0 +1,314 @@
+{
+  "brand": {
+    "nameAr": "صني سكوب",
+    "nameEn": "Sunny Scoop",
+    "taglineAr": "مغارف حلوة وأيام مشمسة",
+    "taglineEn": "Sweet scoops, sunny days"
+  },
+  "contact": {
+    "phone": "+968 0000 0000",
+    "socials": [
+      {
+        "type": "instagram",
+        "handle": "@your_handle",
+        "url": "#"
+      },
+      {
+        "type": "tiktok",
+        "handle": "@your_handle",
+        "url": "#"
+      },
+      {
+        "type": "snapchat",
+        "handle": "@your_handle",
+        "url": "#"
+      },
+      {
+        "type": "x",
+        "handle": "@your_handle",
+        "url": "#"
+      },
+      {
+        "type": "whatsapp",
+        "handle": "+968 0000 0000",
+        "url": "#"
+      }
+    ]
+  },
+  "locations": [
+    {
+      "nameAr": "صلالة",
+      "nameEn": "Salalah",
+      "url": "https://www.google.com/maps/search/?api=1&query=Salalah%2C%20Oman"
+    },
+    {
+      "nameAr": "الموج",
+      "nameEn": "Al Mouj",
+      "url": "https://www.google.com/maps/search/?api=1&query=Al%20Mouj%20Muscat%2C%20Oman"
+    }
+  ],
+  "sections": [
+    {
+      "id": "ice-cream",
+      "nameAr": "آيس كريم",
+      "nameEn": "Ice Cream",
+      "families": [
+        {
+          "id": "signature-scoops",
+          "nameAr": "مغارف سيجنتشر",
+          "nameEn": "Signature Scoops",
+          "products": [
+            {
+              "id": "vanilla-bean-single",
+              "nameAr": "فانيلا طبيعية",
+              "nameEn": "Vanilla Bean",
+              "price": "1.200",
+              "image": "assets/products/vanilla-scoop.jpg",
+              "aliases": [
+                "Vanilla",
+                "vanilla ice cream",
+                "فانيلا"
+              ],
+              "size": {
+                "ar": "مغرفة واحدة",
+                "en": "Single scoop"
+              }
+            },
+            {
+              "id": "vanilla-bean-double",
+              "nameAr": "فانيلا طبيعية",
+              "nameEn": "Vanilla Bean",
+              "price": "2.000",
+              "image": "assets/products/vanilla-scoop.jpg",
+              "aliases": [
+                "Vanilla",
+                "vanilla ice cream",
+                "فانيلا"
+              ],
+              "size": {
+                "ar": "مغرفتان",
+                "en": "Double scoop"
+              }
+            },
+            {
+              "id": "dark-chocolate-cone",
+              "nameAr": "شوكولاتة داكنة",
+              "nameEn": "Dark Chocolate Cone",
+              "price": "1.400",
+              "image": "assets/products/chocolate-cone.jpg",
+              "aliases": [
+                "Chocolate",
+                "chocolate ice cream",
+                "تشوكلت"
+              ]
+            },
+            {
+              "id": "strawberry-cream",
+              "nameAr": "فراولة كريمية",
+              "nameEn": "Strawberry Cream",
+              "price": "1.400",
+              "image": "assets/products/strawberry-scoop.jpg",
+              "aliases": [
+                "Strawberry",
+                "strawberry ice cream",
+                "فراولة"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "desserts",
+      "nameAr": "الحلويات",
+      "nameEn": "Desserts",
+      "families": [
+        {
+          "id": "sweet-plates",
+          "nameAr": "أطباق حلوة",
+          "nameEn": "Sweet Plates",
+          "products": [
+            {
+              "id": "belgian-waffles",
+              "nameAr": "وافل بلجيكي",
+              "nameEn": "Belgian Waffles",
+              "price": "2.600",
+              "image": "assets/products/waffles.jpg",
+              "aliases": [
+                "Waffle",
+                "وافل"
+              ]
+            },
+            {
+              "id": "strawberry-crepe",
+              "nameAr": "كريب الفراولة",
+              "nameEn": "Strawberry Crepe",
+              "price": "2.400",
+              "image": "assets/products/strawberry-crepe.jpg",
+              "aliases": [
+                "Crepe",
+                "كريب"
+              ]
+            },
+            {
+              "id": "banana-pancakes",
+              "nameAr": "بان كيك بالموز",
+              "nameEn": "Banana Pancakes",
+              "price": "2.200",
+              "image": "assets/products/banana-pancakes.jpg",
+              "aliases": [
+                "Pancake",
+                "بانكيك"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "coffee",
+      "nameAr": "القهوة",
+      "nameEn": "Coffee",
+      "families": [
+        {
+          "id": "coffee-bar",
+          "nameAr": "ركن القهوة",
+          "nameEn": "Coffee Bar",
+          "products": [
+            {
+              "id": "cappuccino-small",
+              "nameAr": "كابتشينو",
+              "nameEn": "Cappuccino",
+              "price": "1.200",
+              "image": "assets/products/cappuccino.jpg",
+              "aliases": [
+                "Coffee",
+                "latte art",
+                "قهوة"
+              ],
+              "size": {
+                "ar": "صغير",
+                "en": "Small"
+              }
+            },
+            {
+              "id": "cappuccino-large",
+              "nameAr": "كابتشينو",
+              "nameEn": "Cappuccino",
+              "price": "1.600",
+              "image": "assets/products/cappuccino.jpg",
+              "aliases": [
+                "Coffee",
+                "latte art",
+                "قهوة"
+              ],
+              "size": {
+                "ar": "كبير",
+                "en": "Large"
+              }
+            },
+            {
+              "id": "iced-latte",
+              "nameAr": "آيس لاتيه",
+              "nameEn": "Iced Latte",
+              "price": "1.600",
+              "image": "assets/products/iced-latte.jpg",
+              "aliases": [
+                "Iced coffee",
+                "قهوة مثلجة"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cold-drinks",
+      "nameAr": "المشروبات الباردة",
+      "nameEn": "Cold Drinks",
+      "families": [
+        {
+          "id": "fresh-and-chilled",
+          "nameAr": "منعشة وباردة",
+          "nameEn": "Fresh & Chilled",
+          "products": [
+            {
+              "id": "fresh-orange-juice",
+              "nameAr": "عصير برتقال طازج",
+              "nameEn": "Fresh Orange Juice",
+              "price": "1.400",
+              "image": "assets/products/orange-juice.jpg",
+              "aliases": [
+                "Juice",
+                "orange",
+                "عصير"
+              ]
+            },
+            {
+              "id": "mint-lemonade",
+              "nameAr": "ليمون بالنعناع",
+              "nameEn": "Mint Lemonade",
+              "price": "1.200",
+              "image": "assets/products/mint-lemonade.jpg",
+              "aliases": [
+                "Lemonade",
+                "mojito",
+                "limonana"
+              ]
+            },
+            {
+              "id": "strawberry-milkshake",
+              "nameAr": "ميلك شيك فراولة",
+              "nameEn": "Strawberry Milkshake",
+              "price": "1.800",
+              "image": "assets/products/strawberry-shake.jpg",
+              "aliases": [
+                "Milk shake",
+                "shake",
+                "ميلك شيك"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "light-bites",
+      "nameAr": "وجبات خفيفة",
+      "nameEn": "Light Bites",
+      "families": [
+        {
+          "id": "healthy-picks",
+          "nameAr": "خيارات صحية",
+          "nameEn": "Healthy Picks",
+          "products": [
+            {
+              "id": "fruit-salad",
+              "nameAr": "سلطة فواكه",
+              "nameEn": "Fruit Salad",
+              "price": "1.600",
+              "image": "assets/products/fruit-salad.jpg",
+              "aliases": [
+                "Fruit cup",
+                "fresh fruit",
+                "فواكه"
+              ]
+            },
+            {
+              "id": "yogurt-parfait",
+              "nameAr": "بارفيه زبادي",
+              "nameEn": "Yogurt Parfait",
+              "price": "1.800",
+              "image": "assets/products/yogurt-parfait.jpg",
+              "aliases": [
+                "Yoghurt",
+                "granola",
+                "زبادي"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
